@@ -1,0 +1,275 @@
+---
+title: "Critical IS Research Seminar"
+bibliography: "references/references.bib"
+csl: "references/csl/apa-old-doi-prefix.csl"
+format:
+  html:
+    toc: true
+    css: "css/styles.css"
+    embed-resources: true
+---
+
+## Critical IS Research Seminar (Galway, 15 November 2023)
+
+&emsp;  
+
+<div style="font-size: 200%;">
+To Reveal and Provoke: _An Open Invitation to Critical Information Systems Research_
+</div>
+
+&emsp;  
+
+Blair Wang  
+University of Galway, Ireland  
+`blair.wang@universityofgalway.ie`
+
+Disciple of Business Information Systems Seminar Series  
+15 November 2023
+
+&emsp;  
+
+—
+
+You can get a copy of this notebook at [www.blair.wang/cisr](www.blair.wang/cisr) (one-file webpage).
+
+Generated using [Quarto](https://quarto.org/).
+
+&emsp;  
+&emsp;  
+&emsp;  
+
+
+## 1. What is critical IS research?
+
+### What is research in general?
+
+![Image sources: pexels.com #4031687, #5324968, #1181605](images/DifferentKindsOfResearch.jpg)
+
+- **"How the world works"?** (classic "science" as in Wissenschaft / Naturwissenschaft)
+- **"How to make something new"?** (R&D — research & development)
+- **"How people think/behave"?** (social sciences)
+
+
+### A critical perspective?
+
+> _Critical IS studies aim at **revealing**, criticizing and explaining how the development and use of IS in organizations and society **in the pursuit of efficiency, rationalization and progress** also increase social control and domination, with potential **detrimental consequences** for some stakeholders and society as a whole. Being ‘critical’ in IS research also means subscribing to a much broader historical, social and political view of the IS discipline and the role of IS across all institutional levels of society. Critical research draws attention to the ways in which economic and **managerial interests, ideologies and discourses**, assisted by educational and research funding institutions, shape and construct IS research._
+
+[@CecezKecmanovicEtAl2008_ISJ, p. 123, emphasis added]
+
+- **Revealing** &rarr; _'explaining'_
+- **Provoking** &rarr; _'criticizing'_, _'draws attention'_
+
+::: {.callout-note collapse="true"}
+- More about **understanding (the extent of) the problem** rather than already trying to develop the solution. In fact there's a concept in critical IS research called **digital solutionism** which critiques premature or naive solutions [@RoweEtAl2020_EJIS].
+- I think this is somewhat comparable to the concept of **"calling BS"** [@ChristensenEtAl2019_OS; @BergstromWest2020], e.g., _"calling BS on ChatGPT"_ [@SundarLiao2023].
+:::
+
+
+### Example: Schulzke (2014) on virtual worlds
+
+> _While artificial worlds have enormous potential to facilitate communication, transcend spatial boundaries, promote free expression, and protect marginalized groups, **the utopian promise of these worlds is undermined by their mirroring of real-world market systems, the exploitation of labor, and blurring the line between entertainment and work.**_
+
+[@Schulzke2014, p. 20]
+
+::: {.callout-note collapse="true"}
+In case you might think that "this paper is from 2012 and it's not relevant anymore", here are some YouTubers calling out _de facto_ child labour on a popular childrens' online video game:
+
+- **"Investigation: How Roblox Is Exploiting Young Game Developers"** by More People Make Games (2,282,376 views, 19 Aug 2021) — [https://www.youtube.com/watch?v=_gXlauRB1EQ](https://www.youtube.com/watch?v=_gXlauRB1EQ)
+- **"Roblox Pressured Us to Delete Our Video. So We Dug Deeper."** by More People Make Games (7,222,609 views, 13 Dec 2021) — [https://www.youtube.com/watch?v=vTMF6xEiAaY](https://www.youtube.com/watch?v=vTMF6xEiAaY)
+- **"Roblox Is Exploiting Kids. We Talked To Some Of Them."** by More Perfect Union (168,980 views, 7 Sept 2023) — [https://www.youtube.com/watch?v=n6PYj93SGxc](https://www.youtube.com/watch?v=n6PYj93SGxc)
+:::
+
+
+### Myers and Klein (2011)
+
+![Prominent work by @MyersKlein2011_MISQ.](images/MyersKlein2011_MISQ_picture.png)
+
+::: {.callout-tip collapse="true"}
+### Three elements of critical research (insight, critique, transformation)
+
+Definitions taken from @MyersKlein2011_MISQ, p. 24; adapted from @AlvessonDeetz2000.
+
+- **Insight:** _"This element is concerned with interpretation and gaining insight. Insight can be gained in various ways, e.g., using critical hermeneutics and the archaeology of knowledge, or the concepts of social reproduction via the mechanisms associated with symbolic capital."_
+
+- **Critique:** _"This element is concerned with critique, the genealogy of knowledge, and the social practices of control and reproduction. This element goes beyond interpretation to focus the researcher on the power structures that lie behind accepted interpretations."_
+
+- **Transformation:** _"This element is concerned with suggesting improvements to the conditions of human existence, existing social arrangements, and social theories. Theories are not the primary driver for changes, but potentially fallible lenses through which we see the world. The ultimate arbiters of the desirability of changes are those affected by them."_
+:::
+
+### Similar and not-so-similar areas of research
+
+**Very similar** ✅
+
+- Critical Theory [@Bronner2011]
+- Critical Management Studies [@AlvessonWillmott1992_AMR]
+- Science and Technology Studies [@HackettEtAl2008_STS]
+
+&emsp;
+
+**Somewhat related** 💡
+
+_Typically, but not necessarily, more focused on rules/solutions:_
+
+- IS Ethics research [see also @Stahl2008_ISJ]
+- Responsible Technology research, 'dark side' IS research [see also @MikalefConboyEtAl2022_EJIS]
+
+_Typically, but not necessarily, more descriptive and neutral:_
+
+- Institutional Theory (see note)
+- Critical Literature Review [refer to @PareEtAl2015_IM]
+
+::: {.callout-warning collapse="true"}
+# Institutional Theory and Critical Research — very hotly debated!
+
+- _"Can Institutional Theory Be Critical?"_ [@Suddaby2015_JMI]
+- _"Why Institutional Theory Cannot Be Critical"_ [@Willmott2015_JMI]
+- _"Challenging Institutional Theory’s Critical Credentials"_ [@Munir2019]
+- _"Hasn’t Institutional Theory Always Been Critical?!"_ [@Drori2019]
+:::
+
+&emsp;
+
+**Not really similar** ❌
+
+- Critical Race Theory — typically more contentious claims
+- Critical Realism — entirely different focus
+
+
+## 2. How-to, based on grand theorists
+
+### Classic n°1 — Bourdieu
+
+![Image source: [New York Times](https://www.nytimes.com/2017/07/18/opinion/inequality-pierre-bourdieu.html
+)](images/Big3_Bourdieu.jpg)
+
+Field, habitus and theory of practice
+
+- @VaidyaMyers2020_JIT
+
+Social stratification / cultural production
+
+- @LevinaArriaga2014_ISR
+
+Economic capital, social capital, cultural capital, symbolic capital
+
+- @KarahannaEtAl2019_MISQ
+- @NewmanEtAl2017_ISJ
+
+### Classic n°2 — Foucault
+
+![Image source: [contemporarythinkers.org](https://contemporarythinkers.org/michel-foucault/biography/
+)](images/Big3_Foucault.jpg)
+
+- Archaelogy/geneaology
+  - 'The birth of ...' [@NymanEtAl2021_ICIS; @NymanEtAl2023_JIT]
+- Panopticon
+  - @Jonsson2006_SJIS
+  - @WickerGhosh2020_CACM
+
+### Classic n°3 — Habermas
+
+Lifeworld vs. systems
+
+Different kinds of action/rationality: Instrumental, strategic and communicative
+
+::: {.callout-tip collapse="true"}
+# Summary of the different kinds of action/rationality
+
+Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1984_Vol1.
+
+- **Instrumental:** _"An actor follows technical rules of action and assesses the efficiency of an intervention into a complex of circumstances and events."_
+- **Strategic:** _"An actor follows the rules of rational choice and assesses the efficiency of influencing the decisions of rational opponent."_
+- **Normatively Regulated:** _"Action refers to members of social groups whose actions are informed by commonly accepted norms and values."_
+- **Dramaturgical:** _"An actor evokes in his public a certain image, an impression of himself, by more or less purposefully disclosing his subjectivity."_
+- **Communicative:** _"Actors seek reach an understanding about the action situation in order to coordinate their action by way agreement."_
+:::
+
+- Defending Enlightenment and Rationality
+- Must cite Habermasian ethics stuff
+- @SchlagweinEtAl2019_ISJ on ethics of crowdsourcing
+- @HajBolouriEtAl2016_IRIS
+
+### Postcolonial Theorists
+
+See also general reading by @Masiero2022_ISJ, @TsibolaneBrown2016. 
+
+Said, Spivak, Bhabha
+
+From Masiero 2022:
+
+- TODO: Addo, A. (2017). Subalternity in Information Systems in developing countries: A critical analysis of Ghana's TRADENET. In
+Proceedings of the 14th International Conference on Social Implications of Computers in Developing Countries, Yogyakarta,
+22–24 May 2017.
+
+- TODO: Lin, C. I., Kuo, F. Y., & Myers, M. D. (2015). Extending ICT4D studies: The value of critical research. MIS Quarterly, 39(3),
+697–712.
+
+- TODO: Masiero, S. (2018). Subaltern studies: Advancing critical theory in ICT4D. In Proceedings of the European Conference on
+Information Systems, Portsmouth, 15–18 June 2018.
+
+### Early Frankfurt School (Adorno, Horkheimer, Marcuse)
+
+- Disillusioned with fascism (Nazi Germany), consumerism (America), and communism (USSR)
+- Largely cynical but some hope (e.g., Marcuse's writing on art)
+
+### Surveillance Capitalism (Zuboff), Platform Capitalism (Srnicek), Digital Serfdom (TODO: ...)
+
+### Critical Theory of Technology (Feenberg)
+
+### Fungible Grid Temporality (Wajcman)
+
+## 3. How-to, based on broad ideas
+
+### Paradox
+
+### Dialectics
+
+### Discourse Analysis
+
+### Narrative Analysis and Dramaturgical Analysis
+
+Narrative, i.e., stories:
+
+- Icarus [@PinsonneaultRivard1998_MISQ; @Drummond2008_JIT]
+- Prometheus [@Conboy2019_EJIS; @Conboy2021_CAIS; @ConboyEtAl2022_EJIS]
+- Golem and Leviathan [@PopaEtAl2022]
+
+Dramaturgical, i.e., performances:
+
+- Wang and Prester ...
+
+### Inductive approaches
+
+- Algorithm abstinence [@HannonEtAl2022_ACIS]
+- 'Stockholm syndrome' on social media [@RinaudoEtAl2022_ACIS]
+- Algorithmic audiencing [@RiemerPeter2021_JIT]
+
+"Beyond the Panopticon"
+
+- @LeclercqVandelannoitteEtAl2014_EJIS on "beyond the panopticon"
+- Panopticon vs. exile [@Hafermalz2021_OS]
+- Heautopticon [@DeMoyaPallud2020]
+
+## 4. Proposed Next Steps
+
+**What is your passion?**
+
+- Passion: noun: "suffering"
+- In academia: see also Alvesson (TODO: CITE) on problematisation
+- In industry: "call BS" towards a better world
+  
+**Excellent podcasts**
+
+- Philosophize This
+- 99% Invisible
+
+**Further reading**
+
+- The references below! 😄
+
+## 5. References
+
+::: {#refs}
+:::
+
+
