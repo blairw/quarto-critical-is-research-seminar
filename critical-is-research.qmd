@@ -1,6 +1,6 @@
 ---
 title: "Critical IS Research Seminar"
-bibliography: "references/references.bib"
+bibliography: "references/compiled/references.bib"
 csl: "references/csl/apa-old-doi-prefix.csl"
 format:
   html:
@@ -30,7 +30,7 @@ Disciple of Business Information Systems Seminar Series
 
 —
 
-You can get a copy of this notebook at [www.blair.wang/cisr](www.blair.wang/cisr) (one-file webpage).
+You can get a copy of this notebook at [www.blair.wang/cisr](https://www.blair.wang/cisr) (one-file webpage).
 
 Generated using [Quarto](https://quarto.org/).
 
@@ -118,22 +118,21 @@ Definitions taken from @MyersKlein2011_MISQ, p. 24; adapted from @AlvessonDeetz2
 - Critical Management Studies [@AlvessonWillmott1992_AMR], to which IS researchers contributed [@Lyytinen1992]
 - Science and Technology Studies [@HackettEtAl2008_STS]
 
-TODO: HISTORICAL NOTE
-
+::: {.callout-tip collapse="true"}
+#### Historical development of critical IS research 1991—2011
 - @OrlikowskiBaroudi1991_ISR
-- Ngwenyama, O. (1991) The critical social theory approach to information systems: problems and challenges.
-- Alvesson and Willmott 1992
-Hirschheim, R., Klein, H. and Lyytinen, L. (1996), ‘Exploring the intellectual structures of information systems development: a social action theoretic analysis’, Accounting, Management and Information Technologies, 6(1/2), 1–64.
-- Myers Young 1997 Myers, M.D. and Young, L.W. (1997), ‘Hidden agendas, power and managerial assumptions in information systems development – an ethnographic study’, Information Technology and People, 10(3), 224–40.
+- @Ngwenyama1991
+- @AlvessonWillmott1992_AMR
+- @Lyytinen1992
+- @HirschheimKleinLyytinen1996
+- @MyersYoung1997_ITP
 - @AlvessonDeetz2000
-- @Brooke2002_JIT
+- @Brooke2002_JIT, @CecezKecmanovicJasonBrown2002_JIT (special issue in _JIT_)
 - @McGrath2005_ISJ
-- Howcroft Trauth 2005, Howcroft, D., & Trauth, E. M. (Eds.) Handbook of critical information systems research: Theory and
-application. Cheltenham, UK: Edward Elgar Publishing.
 - @RichardsonRobinson2007_ISJ
 - @CecezKecmanovicEtAl2008_ISJ
-
-
+- @MyersKlein2011_MISQ
+:::
 
 &emsp;
 
@@ -264,7 +263,7 @@ Different kinds of action/rationality: Instrumental, strategic and communicative
 ::: {.callout-tip collapse="true"}
 #### Summary of the different kinds of action/rationality
 
-Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1984_Vol1.
+Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1984_Volume1.
 
 - **Instrumental:** _"An actor follows technical rules of action and assesses the efficiency of an intervention into a complex of circumstances and events."_
 - **Strategic:** _"An actor follows the rules of rational choice and assesses the efficiency of influencing the decisions of rational opponent."_
@@ -286,18 +285,11 @@ Said, Spivak, Bhabha
 
 From Masiero 2022:
 
-- TODO: Addo, A. (2017). Subalternity in Information Systems in developing countries: A critical analysis of Ghana's TRADENET. In
-Proceedings of the 14th International Conference on Social Implications of Computers in Developing Countries, Yogyakarta,
-22–24 May 2017.
+- @Addo2017
+- @LinKuoMyers2015_MISQ
+- @Masiero2018_ECIS
 
-- TODO: Lin, C. I., Kuo, F. Y., & Myers, M. D. (2015). Extending ICT4D studies: The value of critical research. MIS Quarterly, 39(3),
-697–712.
-
-- TODO: Masiero, S. (2018). Subaltern studies: Advancing critical theory in ICT4D. In Proceedings of the European Conference on
-Information Systems, Portsmouth, 15–18 June 2018.
-
-
-### Surveillance Capitalism (Zuboff), Platform Capitalism (Srnicek), Digital Serfdom (Nycyk 2020)
+### Surveillance Capitalism [@Zuboff2015_JIT], Platform Capitalism [@Srnicek2017], Digital Serfdom [@Nycyk2020_JFS]
 
 ### STS n°1 — Actor Network Theory
 
@@ -310,7 +302,6 @@ Information Systems, Portsmouth, 15–18 June 2018.
 ### STS n°4 — Future Studies and sociotechnical imaginings
 
 ## 3. "Calling BS", based on broad ideas
-
 
 ### Critical Hermeneutics
 
@@ -333,7 +324,26 @@ TIP: First, critical hermeneutics must explain how cultural messages ‘show and
 
 ### Feminist Analysis
 
-@TrauthConnolly2021_MISQ 🇮🇪
+Broadly extends to issues of gender, sexuality, LGBTQ+, etc.
+
+Methods paper: @HowcroftTrauth2008_ISJ
+
+IT workforce:
+
+- @Craig2016_ISJ
+- @TrauthHowcroft2006_ITP
+- @TrauthConnolly2021_MISQ 🇮🇪
+
+Gendered assessment of IT artifacts themselves:
+
+- @Wang2020_AJIS
+- @Lingel2021_HICSS
+- @GenglerEtAl2023_WI
+
+Feminist critique of IS research:
+
+- @CurtoMilletLindmanSelander2022_AMCIS
+
 
 ### Narrative Analysis and Dramaturgical Analysis
 

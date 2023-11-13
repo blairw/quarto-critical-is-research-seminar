@@ -1,1 +1,1 @@
-cat references/bibtex/*.bib > references/references.bib
+cat references/bibtex/*.bib > references/compiled/references.bib
