@@ -49,10 +49,24 @@ section:first-of-type {
 	/* font-weight: 300; */
 }
 
-.citation > a {
+.citation > a,
+.tippy-box a {
 	border-bottom: 1px solid;
 }
 
-.citation > a:hover {
+.citation > a:hover,
+.tippy-box a:hover {
 	background-color: rgba(211, 211, 211, 0.5);
+}
+
+.tippy-box {
+	box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.5);
+	padding: 1rem;
+	background-color: rgb(255, 251, 231) !important;
+}
+
+.tippy-box a {
+	color: black;
 }

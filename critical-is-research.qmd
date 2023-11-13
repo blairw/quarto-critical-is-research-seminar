@@ -50,20 +50,34 @@ Generated using [Quarto](https://quarto.org/).
 - **"How people think/behave"?** (social sciences)
 
 
-### A critical perspective?
+### A critical perspective in IS?
 
 > _Critical IS studies aim at **revealing**, criticizing and explaining how the development and use of IS in organizations and society **in the pursuit of efficiency, rationalization and progress** also increase social control and domination, with potential **detrimental consequences** for some stakeholders and society as a whole. Being ‘critical’ in IS research also means subscribing to a much broader historical, social and political view of the IS discipline and the role of IS across all institutional levels of society. Critical research draws attention to the ways in which economic and **managerial interests, ideologies and discourses**, assisted by educational and research funding institutions, shape and construct IS research._
 
 [@CecezKecmanovicEtAl2008_ISJ, p. 123, emphasis added]
 
-- **Revealing** &rarr; _'explaining'_
-- **Provoking** &rarr; _'criticizing'_, _'draws attention'_
+- **Revealing** &rarr; _'explaining'_, _'criticizing'_
+- **Provoking** &rarr;  _'draws attention'_
 
 ::: {.callout-note collapse="true"}
+- **"To reveal is to critique"** [@DoolinLowe2002_JIT]
 - More about **understanding (the extent of) the problem** rather than already trying to develop the solution. In fact there's a concept in critical IS research called **digital solutionism** which critiques premature or naive solutions [@RoweEtAl2020_EJIS].
-- I think this is somewhat comparable to the concept of **"calling BS"** [@ChristensenEtAl2019_OS; @BergstromWest2020], e.g., _"calling BS on ChatGPT"_ [@SundarLiao2023].
+- We are implicitly **rejecting technological determinism** in favour of something more like social constructivism or even free will [@KrepsRowe2021_ICIS].
 :::
 
+
+### Two mental images: "Calling BS", "Black Mirror"
+
+![Image sources: @BergstromWest2020, Netflix](images/CallingBS_and_Netflix.jpg)
+
+1.  **"Calling BS"** [@ChristensenEtAl2019_OS; @BergstromWest2020], e.g., _"calling BS on ChatGPT"_ [@SundarLiao2023].
+
+2. Two Netflix shows — _Black Mirror_ (2011—2023), _Love Death + Robots_ ❤️❌🤖 (2019—2022)
+
+
+### Example: Discussion around the human labour behind AI
+
+![MIT Technology Review [article](https://www.technologyreview.com/2023/06/13/1074560/we-are-all-ais-free-data-workers/), 13 June 2023](images/MITTechReview_AIFreeWorker.jpg)
 
 ### Example: Schulzke (2014) on virtual worlds
 
@@ -72,7 +86,7 @@ Generated using [Quarto](https://quarto.org/).
 [@Schulzke2014, p. 20]
 
 ::: {.callout-note collapse="true"}
-In case you might think that "this paper is from 2012 and it's not relevant anymore", here are some YouTubers calling out _de facto_ child labour on a popular childrens' online video game:
+In case you might think that "this paper is from 2012 and it's not relevant anymore", here are some YouTubers calling out alleged _de facto_ child labour on a popular childrens' online video game:
 
 - **"Investigation: How Roblox Is Exploiting Young Game Developers"** by More People Make Games (2,282,376 views, 19 Aug 2021) — [https://www.youtube.com/watch?v=_gXlauRB1EQ](https://www.youtube.com/watch?v=_gXlauRB1EQ)
 - **"Roblox Pressured Us to Delete Our Video. So We Dug Deeper."** by More People Make Games (7,222,609 views, 13 Dec 2021) — [https://www.youtube.com/watch?v=vTMF6xEiAaY](https://www.youtube.com/watch?v=vTMF6xEiAaY)
@@ -85,7 +99,7 @@ In case you might think that "this paper is from 2012 and it's not relevant anym
 ![Prominent work by @MyersKlein2011_MISQ.](images/MyersKlein2011_MISQ_picture.png)
 
 ::: {.callout-tip collapse="true"}
-### Three elements of critical research (insight, critique, transformation)
+#### Three elements of critical research (insight, critique, transformation)
 
 Definitions taken from @MyersKlein2011_MISQ, p. 24; adapted from @AlvessonDeetz2000.
 
@@ -101,8 +115,25 @@ Definitions taken from @MyersKlein2011_MISQ, p. 24; adapted from @AlvessonDeetz2
 **Very similar** ✅
 
 - Critical Theory [@Bronner2011]
-- Critical Management Studies [@AlvessonWillmott1992_AMR]
+- Critical Management Studies [@AlvessonWillmott1992_AMR], to which IS researchers contributed [@Lyytinen1992]
 - Science and Technology Studies [@HackettEtAl2008_STS]
+
+TODO: HISTORICAL NOTE
+
+- @OrlikowskiBaroudi1991_ISR
+- Ngwenyama, O. (1991) The critical social theory approach to information systems: problems and challenges.
+- Alvesson and Willmott 1992
+Hirschheim, R., Klein, H. and Lyytinen, L. (1996), ‘Exploring the intellectual structures of information systems development: a social action theoretic analysis’, Accounting, Management and Information Technologies, 6(1/2), 1–64.
+- Myers Young 1997 Myers, M.D. and Young, L.W. (1997), ‘Hidden agendas, power and managerial assumptions in information systems development – an ethnographic study’, Information Technology and People, 10(3), 224–40.
+- @AlvessonDeetz2000
+- @Brooke2002_JIT
+- @McGrath2005_ISJ
+- Howcroft Trauth 2005, Howcroft, D., & Trauth, E. M. (Eds.) Handbook of critical information systems research: Theory and
+application. Cheltenham, UK: Edward Elgar Publishing.
+- @RichardsonRobinson2007_ISJ
+- @CecezKecmanovicEtAl2008_ISJ
+
+
 
 &emsp;
 
@@ -117,6 +148,7 @@ _Typically, but not necessarily, more descriptive and neutral:_
 
 - Institutional Theory (see note)
 - Critical Literature Review [refer to @PareEtAl2015_IM]
+- Exemplar 'critical' in both senses: @Avgerou2008_JIT
 
 ::: {.callout-warning collapse="true"}
 # Institutional Theory and Critical Research — very hotly debated!
@@ -132,10 +164,60 @@ _Typically, but not necessarily, more descriptive and neutral:_
 **Not really similar** ❌
 
 - Critical Race Theory — typically more contentious claims
-- Critical Realism — entirely different focus
+- Critical Realism — entirely different focus [refer to https://www.jstor.org/stable/43826000]
 
 
-## 2. How-to, based on grand theorists
+## 2. "Calling BS", based on grand theorists
+
+### Historic n°1 — Kant (Enlightenment, Emancipation)
+
+- Picture of Kant
+
+- Quote from Kant with ref to English translation
+
+- CMS - "microemancipation" [@AlvessonWillmott1992_AMR]
+
+
+- IBM quote, "if only people would be willing to think" - maybe include picture
+
+RESEARCH HOW EMANCIPATION IS DONE 
+
+- Broad literature review of emancipation in IS by https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1829&context=hicss-54
+- (ALT. "EMPOWERMENT V. MARGINALIZATION", "EMPOWERMENT V CONTROL") @ConnollyEtAl2023_JAIS , @DengJoshiGalliers2016_MISQ,  @DuaneFinnegan2003_ISJ 🇮🇪 , @LeongEtAl2022_IM
+
+RESEARCH THAT EMANCIPATES
+
+- @StahlTremblayLeRouge2011_EJIS
+
+BUILD THAT EMANCIPATES
+
+- Emancipatory principles in participatory design [@HirschheimKlein1994_MISQ], e.g., **workplace democracy** in participatory design [@Kautz2011_ITP]
+- "Effective Technical and Human Implementation of Computer Systems (ETHICS)" approach to participatory design [@Mumford1993; @Mumford1995]
+- "Emancipatory design science" [@YoungZhu2021_TREO; @KaneEtAl2021_MISQ; @Heusinger2014]
+
+
+### Historic n°2 — Marx (Alienation, Labour Process)
+
+Alienation:
+
+- @RoweNgwenyamaRichet2020_EJIS
+- @Greenbaum1996_SJIS
+
+Labour Process Analysis:
+
+- @GreenhillFletcher2013_JAIS
+- TODO: more
+
+
+
+### Historic n°3 — Early Frankfurt School (Adorno, Horkheimer, Marcuse)
+
+- Disillusioned with fascism (Nazi Germany), consumerism (America), and communism (USSR)
+- Cynical about their present, utopian about the future (e.g., Marcuse's writing on art)
+
+> "The optimistic, some would say utopian, nature of these narratives and their ‘totalizing’ tendencies [@AlvessonWillmott1992_AMR] may be understood as a response to a Nazi regime, from which members of the Frankfurt School fled into exile in the United States in the mid-1930s [@Burrell1994_OS]."
+
+[@McGrath2005_ISJ, p. 89]
 
 ### Classic n°1 — Bourdieu
 
@@ -168,12 +250,19 @@ Economic capital, social capital, cultural capital, symbolic capital
 
 ### Classic n°3 — Habermas
 
+TRIAGE: Cecez-Kecmanovic, D. (2001) Critical information systems research: a Habermasian perspective. In: Proceedings of the 9th European Conference on Information Systems, S. Smithson, J. Gricar, M. Podlogar & S. Avgerinou (eds), pp. 253–263. Moderna Organizacija, Kranj, Slovenia
+
+TRIAGE: Lyytinen, K. & Hirschheim, R. (1988) Information systems as rational discourse: an application of Habermas’ the- ory of communicative action. Scandinavian Journal of
+Management, 4, 19–30.
+
+TRIAGE: https://www.tandfonline.com/doi/abs/10.1080/01972240802587562 (Nick Berente)
+
 Lifeworld vs. systems
 
 Different kinds of action/rationality: Instrumental, strategic and communicative
 
 ::: {.callout-tip collapse="true"}
-# Summary of the different kinds of action/rationality
+#### Summary of the different kinds of action/rationality
 
 Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1984_Vol1.
 
@@ -207,24 +296,44 @@ Proceedings of the 14th International Conference on Social Implications of Compu
 - TODO: Masiero, S. (2018). Subaltern studies: Advancing critical theory in ICT4D. In Proceedings of the European Conference on
 Information Systems, Portsmouth, 15–18 June 2018.
 
-### Early Frankfurt School (Adorno, Horkheimer, Marcuse)
 
-- Disillusioned with fascism (Nazi Germany), consumerism (America), and communism (USSR)
-- Largely cynical but some hope (e.g., Marcuse's writing on art)
+### Surveillance Capitalism (Zuboff), Platform Capitalism (Srnicek), Digital Serfdom (Nycyk 2020)
 
-### Surveillance Capitalism (Zuboff), Platform Capitalism (Srnicek), Digital Serfdom (TODO: ...)
+### STS n°1 — Actor Network Theory
 
-### Critical Theory of Technology (Feenberg)
+- @DoolinLowe2002_JIT
 
-### Fungible Grid Temporality (Wajcman)
+### STS n°2 — Critical Theory of Technology (Feenberg)
 
-## 3. How-to, based on broad ideas
+### STS n°3 — Fungible Grid Temporality (Wajcman)
 
-### Paradox
+### STS n°4 — Future Studies and sociotechnical imaginings
 
-### Dialectics
+## 3. "Calling BS", based on broad ideas
 
-### Discourse Analysis
+
+### Critical Hermeneutics
+
+Hermeneutic circle [@Gadamer1960]
+
+Critical hermeneutics is doing that with a critical approach [@Kinsella2006], **"being critical about interpreting information technology"** [@Doolin1998_JIT, p. 302]
+
+TIP: First, critical hermeneutics must explain how cultural messages ‘show and hide’; that is, how the ambiguity of meaning always allows for a group to represent itself while opening the door for distortion and domination. Second, critical hermeneutics ought to show how action can be best understood as opposing performances driven by ideological-moral views. Through an analysis of social movements, for instance, it is shown that any attempt to do justice could also and easily create exclusion. Third, critical hermeneutics has to clarify how tension and dualism within meaning and action are not to be dissociated from the self-interpretation of concrete individuals. (TODO: summarise into dot -points)
+[@Roberge2011_ThesisEleven, p. 5]
+
+- @YoungWigdor2021_HICSS
+- @SaghafiWang2017_ACIS
+
+### Critical Discourse Analysis
+
+- @Adam2002_JIT
+- @CukierEtAl2009_ISJ
+- @HurCousinsStahl2019_EJIS
+
+
+### Feminist Analysis
+
+@TrauthConnolly2021_MISQ 🇮🇪
 
 ### Narrative Analysis and Dramaturgical Analysis
 
@@ -237,6 +346,25 @@ Narrative, i.e., stories:
 Dramaturgical, i.e., performances:
 
 - Wang and Prester ...
+
+
+### Paradox
+
+Methods paper: @WangCirielloMathiassen2023_ACIS
+
+Examples of work:
+
+- @HowcroftWilson2003_IO
+- @ElmesStrongVolkoff2005_IO
+
+
+### Dialectics
+
+Methods paper: @CirielloMathiassen2022_ICIS
+
+Examples:
+
+- @GreenhillWilson2006_EJIS
 
 ### Inductive approaches
 
@@ -255,7 +383,8 @@ Dramaturgical, i.e., performances:
 **What is your passion?**
 
 - Passion: noun: "suffering"
-- In academia: see also Alvesson (TODO: CITE) on problematisation
+- In research: see also Alvesson (TODO: CITE) on problematisation
+- In teaching: see also emancipatory pedagogy (TODO: CITE)
 - In industry: "call BS" towards a better world
   
 **Excellent podcasts**
@@ -263,9 +392,7 @@ Dramaturgical, i.e., performances:
 - Philosophize This
 - 99% Invisible
 
-**Further reading**
 
-- The references below! 😄
 
 ## 5. References
 
