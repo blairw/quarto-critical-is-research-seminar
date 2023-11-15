@@ -39,6 +39,19 @@ Generated using [Quarto](https://quarto.org/).
 &emsp;  
 
 
+## Disclaimers
+
+1. I know a little about all the parts, but I do not know everything about any of the parts.
+2. This is just a broad overview of the landscape. 🏔️🏝️
+3. I do not have _all_ the references — if you're interested, let's explore together! 🕵️
+4. Some parts I want to highlight, with a star ⭐️ — this does not mean they're "better", just very interesting examples.
+5. This is loosely based off a 2019 conference paper: @WangEtAl2019_ACIS
+
+&emsp;  
+&emsp;  
+&emsp;  
+
+
 ## 1. What is critical IS research?
 
 ### What is research in general?
@@ -61,7 +74,7 @@ Generated using [Quarto](https://quarto.org/).
 
 ::: {.callout-note collapse="true"}
 - **"To reveal is to critique"** [@DoolinLowe2002_JIT]
-- More about **understanding (the extent of) the problem** rather than already trying to develop the solution. In fact there's a concept in critical IS research called **digital solutionism** which critiques premature or naive solutions [@RoweEtAl2020_EJIS].
+- More about **understanding (the extent of) the problem** rather than already trying to develop the solution. In fact there's a concept in critical IS research called **digital solutionism** which critiques premature or naive solutions [@RoweNgwenyamaRichet2020_EJIS].
 - We are implicitly **rejecting technological determinism** in favour of something more like social constructivism or even free will [@KrepsRowe2021_ICIS].
 :::
 
@@ -163,14 +176,26 @@ _Typically, but not necessarily, more descriptive and neutral:_
 **Not really similar** ❌
 
 - Critical Race Theory — typically more contentious claims
-- Critical Realism — entirely different focus [refer to https://www.jstor.org/stable/43826000]
+- Critical Realism — rather different focus [refer to https://www.jstor.org/stable/43826000]
 
+### How to do it?
+
+Two handy links:
+
+- @CecezKecmanovicKennan2013 — here's a link to the [paper on ResearchGate](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds)
+- @WangEtAl2019_ACIS — here's a link to the [paper on acis2019.io](https://acis2019.io/pdfs/ACIS2019_PaperFIN_012.pdf) 
+
+&emsp;  
+&emsp;  
+&emsp;  
+&emsp;  
+&emsp;  
 
 ## 2. "Calling BS", based on grand theorists
 
 ### Historic n°1 — Kant (Enlightenment, Emancipation)
 
-- Picture of Kant
+![Image source: painting by Johann Gottlieb Becker](cisr_resources/images/Kant.jpg)
 
 - Quote from Kant with ref to English translation
 
@@ -197,6 +222,8 @@ BUILD THAT EMANCIPATES
 
 ### Historic n°2 — Marx (Alienation, Labour Process)
 
+![Image source: photograph by John Mayall](cisr_resources/images/Marx.jpg)
+
 Alienation:
 
 - @RoweNgwenyamaRichet2020_EJIS
@@ -211,7 +238,7 @@ Labour Process Analysis:
 
 ### Historic n°3 — Early Frankfurt School (Adorno, Horkheimer, Marcuse)
 
-![Image source: TBC](cisr_resources/images/EarlyFrankfurtSchool.jpg)
+![Image sources: Jeremy J. Shapiro; Britannica](cisr_resources/images/EarlyFrankfurtSchool.jpg)
 
 
 - Disillusioned with fascism (Nazi Germany), consumerism (America), and communism (USSR)
@@ -252,10 +279,7 @@ Economic capital, social capital, cultural capital, symbolic capital
 
 ### Classic n°3 — Habermas
 
-TRIAGE: Cecez-Kecmanovic, D. (2001) Critical information systems research: a Habermasian perspective. In: Proceedings of the 9th European Conference on Information Systems, S. Smithson, J. Gricar, M. Podlogar & S. Avgerinou (eds), pp. 253–263. Moderna Organizacija, Kranj, Slovenia
-
-TRIAGE: Lyytinen, K. & Hirschheim, R. (1988) Information systems as rational discourse: an application of Habermas’ the- ory of communicative action. Scandinavian Journal of
-Management, 4, 19–30.
+![Image source: [Der Spiegel](https://www.spiegel.de/international/europe/habermas-the-last-european-a-philosopher-s-mission-to-save-the-eu-a-799237.html)](cisr_resources/images/Big3_Habermas.jpg)
 
 TRIAGE: https://www.tandfonline.com/doi/abs/10.1080/01972240802587562 (Nick Berente)
 
@@ -277,10 +301,12 @@ Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1
 
 - Defending Enlightenment and Rationality
 - Must cite Habermasian ethics stuff
-- @SchlagweinEtAl2019_ISJ on ethics of crowdsourcing
+- ⭐️ @SchlagweinEtAl2019_ISJ on ethics of crowdsourcing
 - @HajBolouriEtAl2016_IRIS
 
 ### Postcolonial Theorists
+
+![Image sources: Qantara; Subversive Festival; Jean Baptiste Paris](cisr_resources/images/Postcolonialists.jpg)
 
 See also general reading by @Masiero2022_ISJ, @TsibolaneBrown2016. 
 
@@ -289,25 +315,43 @@ Said, Spivak, Bhabha
 From Masiero 2022:
 
 - @Addo2017
-- @LinKuoMyers2015_MISQ
+- ⭐️ @LinKuoMyers2015_MISQ
 - @Masiero2018_ECIS
 
-### Surveillance Capitalism [@Zuboff2015_JIT], Platform Capitalism [@Srnicek2017], Digital Serfdom [@Nycyk2020_JFS]
+### Surveillance Capitalism and Platform Capitalism
 
-### STS n°1 — Relational Ontologies (Actor Network Theory, Sociomateriality)
+![Image sources: Shoshana Zuboff, Nick Srnicek](cisr_resources/images/SurveillancePlatformCapitalism.jpg)
+
+- @Zuboff2015_JIT
+- @Srnicek2017
+
+Also: @Nycyk2020_JFS
+
+### Science and Technology Studies (STS)
+
+![Image source: [Mette Baunbæk Pedersen c/o Jim Proctor](https://jimproctor.us/envs/mapping-actors-processes/)](cisr_resources/images/CPH_ANT.jpg)
+
+- Relational ontologies (Actor-Network Theory, sociomateriality)
+- Agency and Performativity
+- Senses and Embodiment
+- Speculatively Engaging with Futures
+
+Recommended resources:
+
+- [ECIS 2021 panel Tina Blegind Jensen, Mads Bodker, Ulrike Schultze, Dirk Hovorka, Joao Baptista](https://aisel.aisnet.org/ecis2021_panels/2/)
+- IFIP WG 8.2 Conference 2018 proceedings book _"Living with Monsters"_: @SchultzeEtAl2018_IFIPWG82
+
+Examples of research:
 
 - @DoolinLowe2002_JIT
 - Mahya Ostovar, Reza Mousavi, Ulrike Schultze
 
-### STS n°2 — Critical Theory of Technology (Feenberg)
-
-### STS n°3 — Fungible Grid Temporality (Wajcman)
-
-### STS n°4 — Future Studies and sociotechnical imaginings
 
 ## 3. "Calling BS", based on broad ideas
 
-### Critical Hermeneutics
+### Critical Hermeneutics and Critical Discourse Analysis
+
+![Ironically, there are many interpretations of what a 'hermeneutic circle' is. Image source: Google Images](cisr_resources/images/HermeneuticCircles.jpg)
 
 Hermeneutic circle [@Gadamer1960]
 
@@ -319,11 +363,23 @@ TIP: First, critical hermeneutics must explain how cultural messages ‘show and
 - @YoungWigdor2021_HICSS
 - @SaghafiWang2017_ACIS
 
-### Critical Discourse Analysis
+Specifically Critical Discourse Analysis:
 
 - @Adam2002_JIT
 - @CukierEtAl2009_ISJ
-- @HurCousinsStahl2019_EJIS
+- ⭐️ @HurCousinsStahl2019_EJIS
+
+### Narrative Analysis and Dramaturgical Analysis
+
+Narrative, i.e., stories:
+
+- ⭐️ Icarus [@PinsonneaultRivard1998_MISQ; @Drummond2008_JIT]
+- ⭐️ Prometheus [@Conboy2019_EJIS; @Conboy2021_CAIS; @ConboyEtAl2022_EJIS]
+- Golem and Leviathan [@PopaEtAl2022]
+
+Dramaturgical, i.e., performances:
+
+- Wang and Prester ...
 
 
 ### Feminist Analysis
@@ -347,19 +403,6 @@ Gendered assessment of IT artifacts themselves:
 Feminist critique of IS research:
 
 - @CurtoMilletLindmanSelander2022_AMCIS
-
-
-### Narrative Analysis and Dramaturgical Analysis
-
-Narrative, i.e., stories:
-
-- Icarus [@PinsonneaultRivard1998_MISQ; @Drummond2008_JIT]
-- Prometheus [@Conboy2019_EJIS; @Conboy2021_CAIS; @ConboyEtAl2022_EJIS]
-- Golem and Leviathan [@PopaEtAl2022]
-
-Dramaturgical, i.e., performances:
-
-- Wang and Prester ...
 
 
 ### Paradox
@@ -400,6 +443,10 @@ Examples:
 - In research: see also Alvesson (TODO: CITE) on problematisation
 - In teaching: see also emancipatory pedagogy (TODO: CITE)
 - In industry: "call BS" towards a better world
+
+**Dig deeper?**
+
+- [www.litbaskets.io](https://www.litbaskets.io/)
   
 **Excellent podcasts**
 
