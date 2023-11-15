@@ -42,7 +42,7 @@ Generated using [Quarto](https://quarto.org/).
 ## Disclaimers
 
 1. I know a little about all the parts, but I do not know everything about any of the parts.
-2. This is just a broad overview of the landscape. 🏔️🏝️
+2. This is just a broad overview of the landscape. 🏔️🏝️ — Inevitably (over)simplifying.
 3. I do not have _all_ the references — if you're interested, let's explore together! 🕵️
 4. Some parts I want to highlight, with a star ⭐️ — this does not mean they're "better", just very interesting examples.
 5. This is loosely based off a 2019 conference paper: @WangEtAl2019_ACIS
@@ -176,13 +176,13 @@ _Typically, but not necessarily, more descriptive and neutral:_
 **Not really similar** ❌
 
 - Critical Race Theory — typically more contentious claims
-- Critical Realism — rather different focus [refer to https://www.jstor.org/stable/43826000]
+- Critical Realism — rather different focus [cf. @MingersMutchWillcocks2013_MISQ]
 
 ### How to do it?
 
 Two handy links:
 
-- @CecezKecmanovicKennan2013 — here's a link to the [paper on ResearchGate](https://www.researchgate.net/publication/236004781_1_Cecez-Kecmanovic_D_Kennan_MA_2013_Chapter_5_The_methodological_landscape_Information_systems_and_knowledge_management_in_Research_Methods_Information_Systems_and_Contexts_Williamson_K_Johanson_G_eds)
+- @CecezKecmanovicKennan2018
 - @WangEtAl2019_ACIS — here's a link to the [paper on acis2019.io](https://acis2019.io/pdfs/ACIS2019_PaperFIN_012.pdf) 
 
 &emsp;  
@@ -191,54 +191,61 @@ Two handy links:
 &emsp;  
 &emsp;  
 
-## 2. "Calling BS", based on grand theorists
+## 2. Critiquing, "calling BS", based on grand theorists
 
 ### Historic n°1 — Kant (Enlightenment, Emancipation)
 
 ![Image source: painting by Johann Gottlieb Becker](cisr_resources/images/Kant.jpg)
 
-- Quote from Kant with ref to English translation
+> _"Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit"_
+>
+> _("Enlightenment is the emancipation of man from a state of self-imposed tutelage")_
 
 - CMS - "microemancipation" [@AlvessonWillmott1992_AMR]
+- As an aside: they were _really_ into this over [at IBM](https://twitter.com/IBM/status/766376930593480704)
 
+**A. Research how emancipation (empowerment?) is done:**
 
-- IBM quote, "if only people would be willing to think" - maybe include picture
+- ⭐️ See broad literature review of emancipation in IS by @YoungEtAl2021_HICSS
+- How is it "calling BS"? Usually on the 'opposite' of emancipation/empowerment. "Empowerment vs. Marginalisation", "Empowerment vs. Control" ...
+- @ConnollyEtAl2023_JAIS
+- ⭐️ @DengJoshiGalliers2016_MISQ — [https://www.jstor.org/stable/26628907](https://www.jstor.org/stable/26628907)
+- @DuaneFinnegan2003_ISJ 
+- @LeongEtAl2022_IM
 
-RESEARCH HOW EMANCIPATION IS DONE 
+**B. Research that emancipates:**
 
-- Broad literature review of emancipation in IS by https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1829&context=hicss-54
-- (ALT. "EMPOWERMENT V. MARGINALIZATION", "EMPOWERMENT V CONTROL") @ConnollyEtAl2023_JAIS , @DengJoshiGalliers2016_MISQ,  @DuaneFinnegan2003_ISJ 🇮🇪 , @LeongEtAl2022_IM
-
-RESEARCH THAT EMANCIPATES
-
-- @StahlTremblayLeRouge2011_EJIS
-
-BUILD THAT EMANCIPATES
-
+- Focus groups as a particularly emancipating method? @StahlTremblayLeRouge2011_EJIS
 - Emancipatory principles in participatory design [@HirschheimKlein1994_MISQ], e.g., **workplace democracy** in participatory design [@Kautz2011_ITP]
 - "Effective Technical and Human Implementation of Computer Systems (ETHICS)" approach to participatory design [@Mumford1993; @Mumford1995]
 - "Emancipatory design science" [@YoungZhu2021_TREO; @KaneEtAl2021_MISQ; @Heusinger2014]
 
 
-### Historic n°2 — Marx (Alienation, Labour Process)
+### Historic n°2 — Marx (Alienation, Labour Analysis)
 
 ![Image source: photograph by John Mayall](cisr_resources/images/Marx.jpg)
 
-Alienation:
+> _We have considered the act of estranging practical human activity, labor, in two of its aspects. **(1)** The relation of the worker to **the product of labor as an alien object exercising power over him**. This relation is at the same time the relation to the sensuous external world, to the objects of nature, as an alien world inimically opposed to him. **(2)** The relation of labor to the act of production within the labor process. This relation is **the relation of the worker to his own activity as an alien activity not belonging to him**; it is activity as suffering, strength as weakness, begetting as emasculating, the worker’s own physical and mental energy, his personal life – for what is life but activity? – as an activity which is turned against him, independent of him and not belonging to him. Here we have self-estrangement, as previously we had the estrangement of the thing. ... Estranged labor turns thus: **(3) Man’s species-being, both nature and his spiritual species-property, into a being alien to him**, into a means of his individual existence. It estranges from man his own body, as well as external nature and his spiritual aspect, his human aspect. **(4)** An immediate consequence of the fact that man is estranged from the product of his labor, from his life activity, from his species-being, is **the estrangement of man from man**. When man confronts himself, he confronts the other man._
+
+— @Marx1844, available online [here](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm)
+
+::: {.callout-warning}
+Marx is known for much more than just the concept of alienation! I chose to highlight alienation as a very compelling idea and a way to 'call BS'.
+:::
+
+**Alienation / labour analysis:**
 
 - @RoweNgwenyamaRichet2020_EJIS
 - @Greenbaum1996_SJIS
-
-Labour Process Analysis:
-
 - @GreenhillFletcher2013_JAIS
-- TODO: more
 
 
 
-### Historic n°3 — Early Frankfurt School (Adorno, Horkheimer, Marcuse)
+### Historic n°3 — Early Frankfurt School (Fromm, Adorno, Horkheimer, Marcuse)
 
 ![Image sources: Jeremy J. Shapiro; Britannica](cisr_resources/images/EarlyFrankfurtSchool.jpg)
+
+
 
 
 - Disillusioned with fascism (Nazi Germany), consumerism (America), and communism (USSR)
@@ -248,20 +255,44 @@ Labour Process Analysis:
 
 [@McGrath2005_ISJ, p. 89]
 
+**Fromm:**
+
+- “Escape from Freedom”
+- “The Art of Loving”
+
+**Adorno and Horkheimer:**
+
+- Definition of Critical Theory vs. “Traditional Theory”
+- “The Dialectic of Enlightenment”
+- The Culture Industry - available online [here](https://www.marxists.org/reference/archive/adorno/1944/culture-industry.htm)
+  - _"Amusement under late capitalism is the prolongation of work"_ ...
+  - _"reduced prices"_ ...
+
+**Marcuse:**
+
+- “Eros and Civilization”
+- “One Dimensional Man”
+- Art as Liberation
+
+> _"The freedom to think and reflect that is made possible at the level of culture makes it possible to construct values and ideals that pose a challenge to the social order. This is the emancipatory function of art. However, art itself does not bring about liberation; it must be translated into political activity. Nevertheless, art is important because it opens up the space for thinking that may then produce revolution."_
+
+- Stanford Encyclopedia of Philosophy (SEP) commentary on Marcuse — [https://plato.stanford.edu/entries/marcuse/](https://plato.stanford.edu/entries/marcuse/)
+
+
 ### Classic n°1 — Bourdieu
 
 ![Image source: [New York Times](https://www.nytimes.com/2017/07/18/opinion/inequality-pierre-bourdieu.html
 )](cisr_resources/images/Big3_Bourdieu.jpg)
 
-Field, habitus and theory of practice
+**Field, habitus and theory of practice**
 
-- @VaidyaMyers2020_JIT
+- ⭐️ @VaidyaMyers2020_JIT
 
-Social stratification / cultural production
+**Social stratification / cultural production**
 
 - @LevinaArriaga2014_ISR
 
-Economic capital, social capital, cultural capital, symbolic capital
+**Economic capital, social capital, cultural capital, symbolic capital**
 
 - @KarahannaEtAl2019_MISQ
 - @NewmanEtAl2017_ISJ
@@ -271,21 +302,18 @@ Economic capital, social capital, cultural capital, symbolic capital
 ![Image source: [contemporarythinkers.org](https://contemporarythinkers.org/michel-foucault/biography/
 )](cisr_resources/images/Big3_Foucault.jpg)
 
-- Archaelogy/geneaology
-  - 'The birth of ...' [@NymanEtAl2021_ICIS; @NymanEtAl2023_JIT]
-- Panopticon
-  - @Jonsson2006_SJIS
-  - @WickerGhosh2020_CACM
+**Archaelogy/geneaology**
+
+- ⭐️ 'The birth of ...' [@NymanEtAl2021_ICIS; @NymanEtAl2023_JIT]
+
+**Panopticon**
+
+- @Jonsson2006_SJIS
+- @WickerGhosh2020_CACM
 
 ### Classic n°3 — Habermas
 
 ![Image source: [Der Spiegel](https://www.spiegel.de/international/europe/habermas-the-last-european-a-philosopher-s-mission-to-save-the-eu-a-799237.html)](cisr_resources/images/Big3_Habermas.jpg)
-
-TRIAGE: https://www.tandfonline.com/doi/abs/10.1080/01972240802587562 (Nick Berente)
-
-Lifeworld vs. systems
-
-Different kinds of action/rationality: Instrumental, strategic and communicative
 
 ::: {.callout-tip collapse="true"}
 #### Summary of the different kinds of action/rationality
@@ -299,8 +327,8 @@ Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1
 - **Communicative:** _"Actors seek reach an understanding about the action situation in order to coordinate their action by way agreement."_
 :::
 
-- Defending Enlightenment and Rationality
-- Must cite Habermasian ethics stuff
+- _"The last Modernist"_ [@Burrell1994_OS], _"the last European"_ ([Der Spiegel](https://www.spiegel.de/international/europe/habermas-the-last-european-a-philosopher-s-mission-to-save-the-eu-a-799237.html))
+- ⭐️ @HansenBerenteLyytinen2009_TIS
 - ⭐️ @SchlagweinEtAl2019_ISJ on ethics of crowdsourcing
 - @HajBolouriEtAl2016_IRIS
 
@@ -308,21 +336,20 @@ Summary provided by @HajBolouriEtAl2016_IRIS, pp. 8—9; adapted from @Habermas1
 
 ![Image sources: Qantara; Subversive Festival; Jean Baptiste Paris](cisr_resources/images/Postcolonialists.jpg)
 
-See also general reading by @Masiero2022_ISJ, @TsibolaneBrown2016. 
+Said: "Orientalism" / Spivak: "can the subaltern speak?" / Bhabha: hybridity
 
-Said, Spivak, Bhabha
+See also general reading by @Masiero2022_ISJ,
 
-From Masiero 2022:
-
+- ⭐️ @RavishankarPanMyers2013_EJIS — see Table 1
+- ⭐️ @TsibolaneBrown2016 — online [at AIS eLibrary](https://aisel.aisnet.org/globdev2016/3/) — see Table 2
+- ⭐ @Masiero2021_HICSS — adapting outside of conventional postcolonial discourse
 - @Addo2017
-- ⭐️ @LinKuoMyers2015_MISQ
-- @Masiero2018_ECIS
 
 ### Surveillance Capitalism and Platform Capitalism
 
 ![Image sources: Shoshana Zuboff, Nick Srnicek](cisr_resources/images/SurveillancePlatformCapitalism.jpg)
 
-- @Zuboff2015_JIT
+- @Zuboff2019 — see also @Zuboff2015_JIT
 - @Srnicek2017
 
 Also: @Nycyk2020_JFS
@@ -330,6 +357,10 @@ Also: @Nycyk2020_JFS
 ### Science and Technology Studies (STS)
 
 ![Image source: [Mette Baunbæk Pedersen c/o Jim Proctor](https://jimproctor.us/envs/mapping-actors-processes/)](cisr_resources/images/CPH_ANT.jpg)
+
+::: {.callout-warning}
+This is not an exact 1:1 match with STS, but there is a lot of shared intellectual history and general scholarly ethos.
+:::
 
 - Relational ontologies (Actor-Network Theory, sociomateriality)
 - Agency and Performativity
@@ -344,26 +375,29 @@ Recommended resources:
 Examples of research:
 
 - @DoolinLowe2002_JIT
-- Mahya Ostovar, Reza Mousavi, Ulrike Schultze
+- Shout out to just about all of [Mahya's work](https://scholar.google.com/citations?user=TNcB80gAAAAJ&hl=en&oi=ao)! 👏
 
 
-## 3. "Calling BS", based on broad ideas
+## 3. Critiquing, "calling BS", based on broad ideas
 
 ### Critical Hermeneutics and Critical Discourse Analysis
 
 ![Ironically, there are many interpretations of what a 'hermeneutic circle' is. Image source: Google Images](cisr_resources/images/HermeneuticCircles.jpg)
 
-Hermeneutic circle [@Gadamer1960]
+Hermeneutic circle [@Gadamer1960].
 
-Critical hermeneutics is doing that with a critical approach [@Kinsella2006], **"being critical about interpreting information technology"** [@Doolin1998_JIT, p. 302]
+Critical hermeneutics is doing that with a critical approach [@Kinsella2006], **"being critical about interpreting information technology"** [@Doolin1998_JIT, p. 302].
 
-TIP: First, critical hermeneutics must explain how cultural messages ‘show and hide’; that is, how the ambiguity of meaning always allows for a group to represent itself while opening the door for distortion and domination. Second, critical hermeneutics ought to show how action can be best understood as opposing performances driven by ideological-moral views. Through an analysis of social movements, for instance, it is shown that any attempt to do justice could also and easily create exclusion. Third, critical hermeneutics has to clarify how tension and dualism within meaning and action are not to be dissociated from the self-interpretation of concrete individuals. (TODO: summarise into dot -points)
+> _"First, critical hermeneutics must explain **how cultural messages ‘show and hide’**; that is, how the ambiguity of meaning always allows for a group to represent itself while opening the door for distortion and domination. Second, critical hermeneutics ought to show **how action can be best understood as opposing performances** driven by ideological-moral views. Through an analysis of social movements, for instance, it is shown that any attempt to do justice could also and easily create exclusion. Third, critical hermeneutics has to clarify how tension and dualism within meaning and action are not to be dissociated from the **self-interpretation of concrete individuals**."_
+
 [@Roberge2011_ThesisEleven, p. 5]
+
+**Critical hermeneutics:**
 
 - @YoungWigdor2021_HICSS
 - @SaghafiWang2017_ACIS
 
-Specifically Critical Discourse Analysis:
+**Critical discourse analysis:**
 
 - @Adam2002_JIT
 - @CukierEtAl2009_ISJ
@@ -371,15 +405,19 @@ Specifically Critical Discourse Analysis:
 
 ### Narrative Analysis and Dramaturgical Analysis
 
-Narrative, i.e., stories:
+**Narrative, i.e., stories:**
 
-- ⭐️ Icarus [@PinsonneaultRivard1998_MISQ; @Drummond2008_JIT]
-- ⭐️ Prometheus [@Conboy2019_EJIS; @Conboy2021_CAIS; @ConboyEtAl2022_EJIS]
-- Golem and Leviathan [@PopaEtAl2022]
+- Narrative analysis: @Davison2016_ISJ
+- "Organisational stories" [@Czarniawska1998], "narratives of change" [@Doolin2016_Org]
+- Stories and metaphors in the public consciousness:
+  - ⭐️ Icarus [@PinsonneaultRivard1998_MISQ; @Drummond2008_JIT]
+  - ⭐️ Prometheus [@Conboy2019_EJIS; @Conboy2021_CAIS; @ConboyEtAl2022_EJIS]
+  - Golem and Leviathan [@PopaEtAl2022]
 
-Dramaturgical, i.e., performances:
+**Dramaturgical, i.e., performances:**
 
-- Wang and Prester ...
+- Dramaturgical analysis: @Goffman1956
+- @WangPrester2022_ICIS
 
 
 ### Feminist Analysis
@@ -392,7 +430,7 @@ IT workforce:
 
 - @Craig2016_ISJ
 - @TrauthHowcroft2006_ITP
-- @TrauthConnolly2021_MISQ 🇮🇪
+- @TrauthConnolly2021_MISQ
 
 Gendered assessment of IT artifacts themselves:
 
@@ -437,12 +475,14 @@ Examples:
 
 ## 4. Proposed Next Steps
 
+![Etymology of 'passion'. Image source: Google](cisr_resources/images/PassionEtymology.jpg)
+
 **What is your passion?**
 
-- Passion: noun: "suffering"
-- In research: see also Alvesson (TODO: CITE) on problematisation
-- In teaching: see also emancipatory pedagogy (TODO: CITE)
-- In industry: "call BS" towards a better world
+- Passion — noun: _"suffering"_
+- In research — **problematisation as a research approach** [@AlvessonSandberg2011]
+- In teaching — **emancipatory pedagogy** [@Biesta2017]
+- In industry — "call BS" towards a better world
 
 **Dig deeper?**
 
@@ -450,9 +490,8 @@ Examples:
   
 **Excellent podcasts**
 
-- Philosophize This
-- 99% Invisible
-
+- Philosophize This — [philosophizethis.org](https://www.philosophizethis.org/)
+- 99% Invisible — [99percentinvisible.org](https://99percentinvisible.org/)
 
 
 ## 5. References
