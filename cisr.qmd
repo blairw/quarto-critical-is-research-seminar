@@ -445,7 +445,7 @@ Feminist critique of IS research:
 
 ### Paradox
 
-Methods paper: @WangCirielloMathiassen2023_ACIS
+Methods paper: @WangCirielloMathiassen2023_ACIS — on [ResearchGate](https://www.researchgate.net/publication/375417853_What_is_paradox_in_Information_Systems_research_Towards_a_narratology)
 
 Examples of work:
 
@@ -459,6 +459,7 @@ Methods paper: @CirielloMathiassen2022_ICIS
 
 Examples:
 
+- @WangEtAl2020_JAIS
 - @GreenhillWilson2006_EJIS
 
 ### Inductive approaches
