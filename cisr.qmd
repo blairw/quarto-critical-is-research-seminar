@@ -363,6 +363,7 @@ This is not an exact 1:1 match with STS, but there is a lot of shared intellectu
 :::
 
 - Relational ontologies (Actor-Network Theory, sociomateriality)
+- Processual ontologies [e.g., see @CecezKecmanovic2016]
 - Agency and Performativity
 - Senses and Embodiment
 - Speculatively Engaging with Futures
@@ -374,6 +375,7 @@ Recommended resources:
 
 Examples of research:
 
+- @MarjanovicCecezKecmanovicVidgen2021_JIT
 - @DoolinLowe2002_JIT
 - Shout out to just about all of [Mahya's work](https://scholar.google.com/citations?user=TNcB80gAAAAJ&hl=en&oi=ao)! 👏
 
