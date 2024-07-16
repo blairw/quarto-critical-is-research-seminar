@@ -6,7 +6,7 @@ format:
   html:
     toc: true
     css: "cisr_resources/css/styles.css"
-#    embed-resources: true
+    embed-resources: true
 ---
 
 ## Critical IS Research Seminar (Galway, 15 November 2023)
